@@ -1,0 +1,59 @@
+
+    .foot a {
+        text-decoration: none;
+        color: white;
+        font-size: 18px;
+        font-family: i;
+    }
+
+    .con {
+        list-style: none;
+    }
+
+    .icon {
+        font-size: 23px;
+        margin-top: 11px;
+        color: white;
+    }
+
+    .icon:hover {
+        transform: scale(1.5);
+    }
+
+    .slide1 {
+        font-size: 80px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: blanchedalmond;
+    }
+
+    .slide {
+        font-size: 20px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        color: bisque;
+    }
+
+    .detail:hover {
+        background: linear-gradient(to right, #f2709c, #ff9472);
+        ;
+        transform: scale(1.1);
+        transition: 1.2s;
+    }
+
+    .btn1 {
+        justify-content: center !important;
+        width: 100%;
+    }
+    .font{
+        font-size: 25px;
+    }
+    .contect li {
+        list-style: none;
+    }
+    .contect a{
+        text-decoration: none;
+        color: white;
+    }
+    .contect a:hover{
+        text-decoration: underline;
+        color:yellow;
+    }
